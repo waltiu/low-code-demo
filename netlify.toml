@@ -1,0 +1,3 @@
+[build]
+  commad = "npm run build"
+  publish = "build"
