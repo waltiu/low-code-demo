@@ -1,2 +1,2 @@
 [build]
-  commad = "npm run build"
+  commad = "yarn build"
